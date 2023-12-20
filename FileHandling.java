@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class FileToConsole
+class FileHandling
 {
 	public static void main(String args[])
 {
