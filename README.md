@@ -5,17 +5,19 @@ HAPPY CODING
 
 Follow the steps to Download the Repo with all the contents.
 
-  1]sudo git clone
+  1]sudo git clone https://github.com/Tw0side/OOPS-S3-CSE-AND-CYBER---KTU.git
+
+  
 
 NB:THIS REPO IS A COMPLETE PACKAGE.IT HAS EVERY TEXT FILES REQUIRED FOR SPECIFIC PROGRAMS .
 --test.txt(FILE RELATED input file).
 --output.txt(To store output)
 --numbers.txt(For string tokenizer program).
---
+-
 
 All of the given programs are tested on kali Linux using openjdk 11 and javac as a compiler
 Text Editors used are sublime and mousepad.
---
+-
 
 
 THE FOLLWING PROGRAMS HAS BEEN UPDATED IN THIS REPO..
