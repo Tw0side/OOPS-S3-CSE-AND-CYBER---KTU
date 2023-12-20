@@ -73,7 +73,7 @@ class TrafficLight extends JPanel implements ActionListener
 	}
 } 
 
-class traffic
+class TrafficGUI
 {
 	public static void main(String args[])
 	{
