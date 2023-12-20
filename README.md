@@ -13,7 +13,7 @@ Follow the steps to Download the Repo with all the contents.
 
      sudo chmod -R 777 OOPS-S3-CSE-AND-CYBER---KTU
  
- 3]if the folder still chows the lock symbol..you mughtneed root access
+ 3]if the folder still shows the lock symbol..you mughtneed root access
    do the following
 
      sudo su
