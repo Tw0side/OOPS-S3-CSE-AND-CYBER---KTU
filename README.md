@@ -3,6 +3,8 @@ The Repo consists of programs which are ready to run out of the box..enabling st
 Its advised not to blindly copy paste this programs but rather understand what a specific Line of code does.
 HAPPY CODING 
 
+NB:THIS REPO IS A COMPLETE PACKAGE.IT HAS EVERY TEXT FILES REQUIRED FOR SPECIFIC PROGRAMS 
+
 THE FOLLWING PROGRAMS HAS BEEN UPDATED IN THIS REPO..
 
 1]Frequency count
@@ -39,7 +41,7 @@ Each one of the classes contains only the method numberOfSides( ) that shows the
 
 Aim-Write a Java program that read from a file and write to file by handling all file related exceptions
 
-9]File handling( for counting characters, words, lines).
+9]File handling( for counting characters, words, lines)---In program(FileContent.java).
 
 Aim-Write a Java program that displays the number of characters, lines and words in a text file.
 
