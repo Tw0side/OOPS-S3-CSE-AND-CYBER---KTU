@@ -5,7 +5,9 @@ HAPPY CODING
 
 Follow the steps to Download the Repo with all the contents.
 
-  1]sudo git clone https://github.com/Tw0side/OOPS-S3-CSE-AND-CYBER---KTU.git
+  1] 
+  
+  sudo git clone https://github.com/Tw0side/OOPS-S3-CSE-AND-CYBER---KTU.git
 
   
 
