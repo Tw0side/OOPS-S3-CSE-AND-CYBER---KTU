@@ -3,7 +3,7 @@ The Repo consists of programs which are ready to run out of the box..enabling st
 Its advised not to blindly copy paste this programs but rather understand what a specific Line of code does.
 HAPPY CODING 
 
-Follow the steps to Download the Repo with all the contents.
+Follow the steps to Download the Repo with all the contents.[For LINUX BASED OS since ubuntu is the GOTO OS in our labs]
 
  1] 
  
