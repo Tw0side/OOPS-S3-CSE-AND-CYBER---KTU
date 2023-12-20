@@ -1,6 +1,6 @@
-The repository is made for KTU S3 CYBER AND CSE STUDENTS OF THE 2019 SCHEME for the OOPS LAB
-The Repo consists of programs which are ready to run out of the box..enabling students to find out errors in their code
-Its advised not to blindly copy paste this programs but rathe understand what a specific Line of code does
+The repository is made for KTU S3 CYBER AND CSE STUDENTS OF THE 2019 SCHEME for the OOPS LAB.
+The Repo consists of programs which are ready to run out of the box..enabling students to find out errors in their code.
+Its advised not to blindly copy paste this programs but rather understand what a specific Line of code does.
 HAPPY CODING 
 
 THE FOLLWING PROGRAMS HAS BEEN UPDATED IN THIS REPO..
