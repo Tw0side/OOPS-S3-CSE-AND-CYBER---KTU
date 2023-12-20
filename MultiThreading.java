@@ -6,8 +6,8 @@ class numgen implements Runnable
 public void run()
 {
 	Random r=new Random();
-	while(true)
-	{
+	
+	
 		number=r.nextInt(50);
 		System.out.println("Random number generated: " + number);
 		try 
@@ -18,7 +18,7 @@ public void run()
 		{
 			System.out.println("Interrupted exception"+e);
 		}
-	}
+	
 
 }
 }
@@ -28,15 +28,23 @@ class square implements Runnable
 	double n;
 	public void run()
 	{
-	while(true)
-	{
+	
+	
 		if((numgen.number%2)==0)
 		{
-		   n=Math.sqrt(numgen.number);
-		   System.out.println("The squareroot of "+numgen.number+" is "+n);
+		   n=numgen.number*numgen.number;
+		   System.out.println("The square of "+numgen.number+" is "+n);
+		   try 
+		{
+			Thread.sleep(100);
 		}
+		catch(InterruptedException e)
+		{
+			System.out.println("Interrupted exception"+e);
+		}
+		}
+	
 	}
-}
 }
 
 class cube implements Runnable
@@ -44,18 +52,27 @@ class cube implements Runnable
 	double n;
 	public void run()
 	{
-	while(true)
-	{
+	
+	
 		if((numgen.number%2)!=0)
 		{
-		   n=Math.cbrt(numgen.number);
-		   System.out.println("The cuberoot of "+numgen.number+" is "+n);
+		   n=numgen.number*numgen.number*numgen.number;
+		   System.out.println("The cube of "+numgen.number+" is "+n);
+		   try 
+		{
+			Thread.sleep(100);
 		}
+		catch(InterruptedException e)
+		{
+			System.out.println("Interrupted exception"+e);
+		}
+		}
+
+	
 	}
 }
-}
 
-class thread
+class MultiThreading
 {
 	public static void main(String args[])
 	{
