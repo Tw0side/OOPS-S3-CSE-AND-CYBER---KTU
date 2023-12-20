@@ -3,8 +3,20 @@ The Repo consists of programs which are ready to run out of the box..enabling st
 Its advised not to blindly copy paste this programs but rather understand what a specific Line of code does.
 HAPPY CODING 
 
+Follow the steps to Download the Repo with all the contents.
+
+  1]sudo git clone
+
 NB:THIS REPO IS A COMPLETE PACKAGE.IT HAS EVERY TEXT FILES REQUIRED FOR SPECIFIC PROGRAMS .
-(FILE RELATED).
+--test.txt(FILE RELATED input file).
+--output.txt(To store output)
+--numbers.txt(For string tokenizer program).
+--
+
+All of the given programs are tested on kali Linux using openjdk 11 and javac as a compiler
+Text Editors used are sublime and mousepad.
+--
+
 
 THE FOLLWING PROGRAMS HAS BEEN UPDATED IN THIS REPO..
 
