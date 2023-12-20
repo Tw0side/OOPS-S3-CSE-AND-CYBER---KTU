@@ -1,0 +1,3 @@
+Hello this is a text file to check all the programs 
+java was created by sun microsystems
+java is an OOP's language.
