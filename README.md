@@ -9,12 +9,28 @@ Follow the steps to Download the Repo with all the contents.
  
      sudo git clone https://github.com/Tw0side/OOPS-S3-CSE-AND-CYBER---KTU.git
 
-  
+ 2]After downloading give the file read write and excecute permissions.In linux use
+
+     sudo chmod -R 777 OOPS-S3-CSE-AND-CYBER---KTU
+ 
+ 3]if the folder still chows the lock symbol..you mughtneed root access
+   do the following
+
+     sudo su
+
+     sudo chmod -a+rwx OOPS-S3-CSE-AND-CYBER---KTU
+
+ 4]Now go to directory and run
+
+      javac Filename.java  to compile
+
+      write java Filename to excecute
+      
 
 NB:THIS REPO IS A COMPLETE PACKAGE.IT HAS EVERY TEXT FILES REQUIRED FOR SPECIFIC PROGRAMS .
---test.txt(FILE RELATED input file).
---output.txt(To store output)
---numbers.txt(For string tokenizer program).
+-test.txt(FILE RELATED input file).
+-output.txt(To store output)
+-numbers.txt(For string tokenizer program).
 -
 
 All of the given programs are tested on kali Linux using openjdk 11 and javac as a compiler
